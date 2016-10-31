@@ -2,13 +2,15 @@
 Please fill this questionnare:  https://goo.gl/forms/QIVsWE3iykoe2knz2 
 
 # Introduction
-Teacher: Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
-Main topic: election in USA        
+**Teacher:**     
+Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
+**Main topic:**     
+election in USA        
          
 **Main methods in training:** 
 * Working with collaboration tools,
-* Working with data processing tools and tools for data storitelling.    
-**Self-work:**
+* Working with data processing tools and tools for data storitelling.        
+**Self-work:**    
 * Creation of longreads.    
 
 # Working in groups
