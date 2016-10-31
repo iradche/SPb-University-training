@@ -33,7 +33,7 @@ Working with
 *	Google Documents, 
 *	Google Spreadsheets, 
 *	Hackpad, 
-*	Slack, Telegram, what else?
+*	Slack, Telegram, Gitter?
 
 Google Spreadsheet for the training: https://docs.google.com/spreadsheets/d/1KhOUFQGdgv4B_YBJ42PnU78NePKSaiQjC_i3_h3xjKs/edit#gid=0
 
