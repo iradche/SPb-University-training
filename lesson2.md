@@ -1,6 +1,6 @@
 # Work with longreads   
 * What is longreads?
-* How to Create and Share Your Own Longreads Page: http://longreads.tumblr.com/longreadspage
+* Best of Longreads: http://www.scmp.com/magazines/post-magazine/topics/best-long-reads
 * Tilda project overview: https://tilda.cc/?lang=en    
 Video-guide on main functions: https://youtu.be/tK2CzTov-5A
    
