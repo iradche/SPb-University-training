@@ -20,4 +20,5 @@ And drop a link to https://docs.google.com/spreadsheets/d/1KhOUFQGdgv4B_YBJ42PnU
 # Bibliography
 
 1. The Data Journalism Handbook: http://datajournalismhandbook.org/1.0/en/    
-2. A bibliography of DDJ and CAR by Julian Ausserhofer (22 items): http://ausserhofer.net/ddjbib/
+2. A collection of links in Data Journalism: https://data-journalism.zeef.com/irina.radchenko#_=_
+3. A bibliography of DDJ and CAR by Julian Ausserhofer (22 items): http://ausserhofer.net/ddjbib/
