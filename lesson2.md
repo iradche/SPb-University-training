@@ -9,7 +9,7 @@ Video-guide on main functions: https://youtu.be/tK2CzTov-5A
 * http://www.slideshare.net/iradche/introduction-to-data-journalism-67889155
 
 # Introduction to Open Data    
-* A slide deck on Open Data
+* https://github.com/iradche/SPb-University-training/blob/master/02_OpenDataIntro.pdf
 
 
 # Work on searching datasets     
