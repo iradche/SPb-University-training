@@ -20,6 +20,9 @@ Put to the spreadsheet links to Tilda (homework).
 ## Data Visualization Tools
 * http://keshif.me/demo/VisTools (https://github.com/adilyalcin/Keshif)     
 
+## Carto
+* https://carto.com/
+
 ## IBM Many Eyes
 * Many Eyes Tutorial: https://youtu.be/WhXxYgCezdc
 * Create a visualization in two steps! IBM Many Eyes: https://youtu.be/oSPw4wukEZU
@@ -29,16 +32,16 @@ Put to the spreadsheet links to Tilda (homework).
 * Plot.ly Introduction: https://youtu.be/loRDhzQ9SOE
 
 ## TimeLines.JS
-http://timeline.knightlab.com/     
+* http://timeline.knightlab.com/     
 
 ## Piktochart
-https://piktochart.com/     
+* https://piktochart.com/     
 
 ## Datawrapper
-https://www.datawrapper.de/     
+* https://www.datawrapper.de/     
 
 ## Canva
-https://www.canva.com/      
+* https://www.canva.com/      
 
 
 # Bibliography
