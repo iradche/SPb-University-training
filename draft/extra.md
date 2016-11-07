@@ -7,6 +7,7 @@
 
 * Introduction to Tableau Public: https://youtu.be/iT1iHLGawIM
 * How to WOW Your Boss with Tableau: https://youtu.be/inOf6ivCSwE
+* Tableau Public tutorial: http://www.peteraldhous.com/CAR/tableau_demo.pdf
 
 ## Election in USA
 * Finding and Cleaning Data: https://youtu.be/1YJBrY9GTS8
