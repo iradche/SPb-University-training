@@ -1,20 +1,32 @@
-# Визуализация данных 
-Little Red Riding Hood: https://youtu.be/dMboBfGI6iY     
+## Краткий обзор занятий
+На занятиях будем заниматься визуализацией. Посмотрим варианты визуализаций данных.    
+    
+Занесите данные в таблицу: https://docs.google.com/spreadsheets/d/1KhOUFQGdgv4B_YBJ42PnU78NePKSaiQjC_i3_h3xjKs/edit#gid=0
+Ссылки на работу в Тильде (это была домашняя работа).
+
+## Визуализация данных 
+* https://youtu.be/VF8LMQQ0rEw
+* Little Red Riding Hood: https://youtu.be/dMboBfGI6iY   
+
+## Примеры работ участников хакатона JournHack
+* Infogram: https://infogr.am/dZRtAFXWPsloHLmz
 
 ## Мастер-класс "Визуализация данных в Infogr.am"    
-Адрес сервиса Infogram: http://infogr.am/      
+* http://infogr.am/      
     
 ## Мастер-класс "Визуализация данных в Tableau"
-Предварительно надо скачать Tableau Public: https://public.tableau.com/en-us/s/download    
+* https://github.com/iradche/SPb-University-training/blob/master/draft/extra.md  
 
 ## Сервисы для визуализации данных
-http://keshif.me/demo/VisTools     
+* http://keshif.me/demo/VisTools (https://github.com/adilyalcin/Keshif)     
 
 ## IBM Many Eyes
-Инструкция на русском языке: https://docs.google.com/document/d/1Cdn-azzud2K0xgUxL1wlQW_x2Xufy-2vr9AckFxvVOg/pub    
+* Many Eyes Tutorial: https://youtu.be/WhXxYgCezdc
+* Create a visualization in two steps! IBM Many Eyes: https://youtu.be/oSPw4wukEZU
 
 ## Plotly
-Инструкция на русском языке: https://docs.google.com/document/d/1h0uuFntg5mO81S7WUGu-Lo_-DYX-BOR01E0ZhrWoy7U/pub    
+* Plotly Essentials: https://youtu.be/hsKbYYBnGDM
+* Plot.ly Introduction: https://youtu.be/loRDhzQ9SOE
 
 ## TimeLines.JS
 http://timeline.knightlab.com/     
@@ -27,3 +39,8 @@ https://www.datawrapper.de/
 
 ## Canva
 https://www.canva.com/      
+
+
+# Bibliography
+* http://www.cc.gatech.edu/~stasko/7450/biblio.html
+* https://www.quora.com/What-are-the-best-data-visualization-books
