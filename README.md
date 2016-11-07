@@ -5,3 +5,4 @@ Join the chat:
 
 Lesson 1: https://github.com/iradche/SPb-University-training/blob/master/lesson1.md    
 Lesson 2: https://github.com/iradche/SPb-University-training/blob/master/lesson2.md    
+Lessons 3-4: https://github.com/iradche/SPb-University-training/blob/master/lessons3-4.md    
