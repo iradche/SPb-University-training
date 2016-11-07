@@ -1,7 +1,7 @@
 ## Overview
 The lessons for diving into Data Visualization.
 
-Please fill the spreadsheet: https://docs.google.com/spreadsheets/d/1KhOUFQGdgv4B_YBJ42PnU78NePKSaiQjC_i3_h3xjKs/edit#gid=0
+Please fill the spreadsheet: https://docs.google.com/spreadsheets/d/1KhOUFQGdgv4B_YBJ42PnU78NePKSaiQjC_i3_h3xjKs/edit#gid=0    
 Put to the spreadsheet links to Tilda (homework).
 
 ## Data Visualization
@@ -44,3 +44,7 @@ https://www.canva.com/
 # Bibliography
 * http://www.cc.gatech.edu/~stasko/7450/biblio.html
 * https://www.quora.com/What-are-the-best-data-visualization-books
+* https://data-visualization.zeef.com/zingchart
+* https://data-visualization-charting.zeef.com/andrey.khachaturov
+* https://infographics.zeef.com/alissakeehan
+* https://data-science.zeef.com/jenda.rybak
